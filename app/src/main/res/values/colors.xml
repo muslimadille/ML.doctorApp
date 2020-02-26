@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#5073de</color>
+    <color name="colorAccent">#FF00AEFF</color>
+    <color name="colorwhiteblue">#28AFED</color>
+    <color name="colorbluebotton">#23a7e4</color>
+    <color name="colordarkbluebotton">#055483</color>
+    <color name="colorAccentDark">#0b1039</color>
+    <color name="colorSTARS">#fde000</color>
+    <color name="colorBG">#00bbd4</color>
+    <color name="colorcancel">#ff076e</color>
+    <color name="colorgray">#e3e4e4</color>
+
+
+
+    <color name="backgroundEditText">#5cffffff</color>
+</resources>

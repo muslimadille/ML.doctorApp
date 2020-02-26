@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "835778165341",
+    "firebase_url": "https://tabibak-5eb4e.firebaseio.com",
+    "project_id": "tabibak-5eb4e",
+    "storage_bucket": "tabibak-5eb4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835778165341:android:629b4d9f0433667d",
+        "android_client_info": {
+          "package_name": "com.medicalLink.muslim.tabibak_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835778165341-eiagjk7bl3j78hqsqq5v35ggp5deorno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalLink.muslim.tabibak_v3",
+            "certificate_hash": "c81376ba8023ecbf87e7218ff25128d52a97f151"
+          }
+        },
+        {
+          "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDou5pggtXgOsQROdsL9xtxj1m6zvV6S5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835778165341:android:c67a49968333ad45",
+        "android_client_info": {
+          "package_name": "com.medicalLink.muslim.doctorregester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835778165341-v79uvh9cj4aemqkqd4fm9pp73nctpr4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalLink.muslim.doctorregester",
+            "certificate_hash": "c81376ba8023ecbf87e7218ff25128d52a97f151"
+          }
+        },
+        {
+          "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDou5pggtXgOsQROdsL9xtxj1m6zvV6S5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835778165341:android:c2d69214d6c4e0e1",
+        "android_client_info": {
+          "package_name": "com.medicalLink.muslim.mldoctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835778165341-o6tsroahq4o5sj4cuqmi971l05ivplm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalLink.muslim.mldoctorapp",
+            "certificate_hash": "c81376ba8023ecbf87e7218ff25128d52a97f151"
+          }
+        },
+        {
+          "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDou5pggtXgOsQROdsL9xtxj1m6zvV6S5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835778165341-0l3dikc1mb8f9a9bc0vsadsc0vthvqh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
