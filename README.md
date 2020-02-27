@@ -5,6 +5,6 @@ APK:https://drive.google.com/open?id=0B8EYkg5NXctoNWlKQThUdnQ3UVE
 
 
 
-![alt text]https://github.com/muslimadille/ML.doctorApp/blob/master/1.jpg "Logo Title Text 1")
+![alt text](https://github.com/muslimadille/ML.doctorApp/blob/master/1.jpg "Logo Title Text 1")
  
 
